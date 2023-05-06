@@ -10,6 +10,7 @@ public class Class01 {
         //V3 calismalari...
         //V4
         //Github degisiklikleri
+        //localden sevgilerle
 
 
 
