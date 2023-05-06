@@ -12,6 +12,7 @@ public class Class01 {
         //Github degisiklikleri
         //localden sevgilerle
         //V5...
+        //V6 Remote
 
 
 
